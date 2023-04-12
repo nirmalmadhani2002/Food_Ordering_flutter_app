@@ -15,6 +15,3 @@
 
 
 
-## App UI
-
-![App UI](/screenshots/Food-Ordering-System.jpg)
